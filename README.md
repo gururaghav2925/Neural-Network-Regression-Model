@@ -6,7 +6,7 @@ To develop a neural network regression model for the given dataset.
 
 ## THEORY
 
-Developing a Neural Network Regression Model involves designing a deep learning model to predict continuous numerical values based on input features. Traditional regression models struggle with complex, nonlinear relationships, whereas neural networks can capture intricate patterns using multiple hidden layers. This project aims to preprocess data, select an optimal network architecture, and train the model using techniques like backpropagation and gradient descent.
+Developing a Neural Network Regression Model involves designing a deep learning model to predict continuous numerical values based on input features. This project aims to preprocess data, select an optimal network architecture, and train the model using techniques like backpropagation and gradient descent.
 ## Neural Network Model
 
 ![image](https://github.com/user-attachments/assets/9e363b72-9ed2-4ff9-bbb8-6fe82e059b2a)
