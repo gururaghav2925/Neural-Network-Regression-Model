@@ -99,7 +99,7 @@ def train_model (ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 ![alt text](image-1.png)
 
 
-![alt text](image-2.png)
+## train model epoch
 
 ![alt text](image-3.png)
 ### New Sample Data Prediction
