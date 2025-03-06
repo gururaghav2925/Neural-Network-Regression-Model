@@ -98,10 +98,13 @@ def train_model (ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
 
 ![alt text](image-1.png)
 
-### New Sample Data Prediction
+
 ![alt text](image-2.png)
 
 ![alt text](image-3.png)
+### New Sample Data Prediction
+![image](https://github.com/user-attachments/assets/97da26ff-27f7-4b8f-be08-8f2943199e40)
+
 ## RESULT
 
 The neural network regression model was successfully trained and evaluated. The model demonstrated strong predictive performance on unseen data, with a low error rate.
