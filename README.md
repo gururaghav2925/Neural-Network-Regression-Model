@@ -68,7 +68,9 @@ def forward(self, x):
 
 
 # Initialize the Model, Loss Function, and Optimizer
-
+model = NeuralNet()
+criterion = RMELoss()
+optimizer = optim.RMSprop(model.parameters(),lr=0.01)
 
 
 def train_model (ai_brain, X_train, y_train, criterion, optimizer, epochs=2000):
